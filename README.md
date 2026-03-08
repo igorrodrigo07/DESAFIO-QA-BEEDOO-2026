@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1D2a3l295T6Yw1be689vOuytzvgL0eRq0
 * **Relatorio_de_Testes.docx** – Documento detalhando os cenários de teste e bugs encontrados
 * **Evidencias_Testes_QA_Beedoo** – Pasta com prints das execuções dos testes
 
-* ## Resumo da Execução dos Testes
+## Resumo da Execução dos Testes
 
 Durante a execução dos testes foram avaliados diferentes cenários da funcionalidade de cadastro de cursos, incluindo fluxos positivos e validações de regras de negócio.
 
