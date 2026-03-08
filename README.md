@@ -10,4 +10,4 @@ Conteúdo:
 - Bugs identificados durante a execução
 
 Link da documentação:
-https://drive.google.com/drive/folders/1GKkrJSlGINf0aI62C_akdfHlvT2BN2jT?hl=pt-br
+https://drive.google.com/drive/folders/1D2a3l295T6Yw1be689vOuytzvgL0eRq0
