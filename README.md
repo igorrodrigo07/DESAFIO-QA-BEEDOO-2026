@@ -1,2 +1,13 @@
-A aplicação tem como objetivo permitir o cadastro e a visualização de cursos em uma interface simples.
-O sistema possibilita que o usuário registre informações de cursos e visualize os cursos cadastrados em uma listagem.
+# Desafio QA – Cadastro de Cursos
+
+Este repositório contém a execução do desafio de testes da aplicação de cadastro de cursos.
+
+Conteúdo:
+
+- Planilha com casos de teste
+- Relatório de execução dos testes
+- Evidências dos testes realizados
+- Bugs identificados durante a execução
+
+Link da documentação:
+https://drive.google.com/drive/folders/1GKkrJSlGINf0aI62C_akdfHlvT2BN2jT?hl=pt-br
