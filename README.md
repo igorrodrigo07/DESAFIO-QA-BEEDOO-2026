@@ -21,3 +21,17 @@ https://drive.google.com/drive/folders/1D2a3l295T6Yw1be689vOuytzvgL0eRq0
 * **Teste_QA_Cadastro_de_Cursos** – Planilha contendo os casos de teste, resultados esperados e resultados obtidos
 * **Relatorio_de_Testes.docx** – Documento detalhando os cenários de teste e bugs encontrados
 * **Evidencias_Testes_QA_Beedoo** – Pasta com prints das execuções dos testes
+
+* ## Resumo da Execução dos Testes
+
+Durante a execução dos testes foram avaliados diferentes cenários da funcionalidade de cadastro de cursos, incluindo fluxos positivos e validações de regras de negócio.
+
+Resultados:
+
+* **Total de casos de teste executados:** 8
+* **Casos de teste aprovados (PASS):** 3
+* **Casos de teste reprovados (FAIL):** 5
+* **Bugs identificados:** 5
+
+Os bugs encontrados estão documentados no relatório de testes, juntamente com as evidências coletadas durante a execução.
+
